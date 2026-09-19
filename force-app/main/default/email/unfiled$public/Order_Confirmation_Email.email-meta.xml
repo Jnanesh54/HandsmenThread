@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <letterhead>Handsmen_Threads</letterhead>
+    <name>Order_Confirmation_Email</name>
+    <style>freeForm</style>
+    <subject>Your Order has been Confirmed!</subject>
+    <textOnly>Dear {!HandsMen_Order__c.HandsMen_Customer__c},
+
+Your order #{!HandsMen_Order__c.Name} has been confirmed!
+
+Thank you for shopping with us.
+
+Best Regards,
+
+Sales Team</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

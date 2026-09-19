@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>UTF-8</encodingKey>
+    <letterhead>Handsmen_Threads</letterhead>
+    <name>Loyalty Program Email</name>
+    <style>freeForm</style>
+    <subject>Loyalty Program Email</subject>
+    <textOnly>Congratulations! You are now a {!HandsMen_Customer__c.Loyalty_Status__c} member and you are eligible for our Loyalty Rewards Program.
+Enjoy exclusive discounts, early access to offers, and special member benefits.
+Thank you for your continued Support.</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

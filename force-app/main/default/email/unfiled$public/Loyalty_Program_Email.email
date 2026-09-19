@@ -1,0 +1,6 @@
+<table border="0" cellpadding="5" width="550" cellspacing="5" height="400" >
+<tr valign="top" height="400" >
+<td tEditID="c1r1" style=" background-color:#FFFFFF; bEditID:r3st1; color:#000000; bLabel:main; font-size:12pt; font-family:arial;" aEditID="c1r1" locked="0" >
+<![CDATA[<div style="box-sizing: border-box; color: rgb(33, 37, 41); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px; letter-spacing: -0.068px; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box;">Congratulations! You are now a {!HandsMen_Customer__c.Loyalty_Status__c} member and you are eligible for our Loyalty Rewards Program.</span></div><div style="box-sizing: border-box; color: rgb(33, 37, 41); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px; letter-spacing: -0.068px; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box;">Enjoy exclusive discounts, early access to offers, and special member benefits.</span></div><div style="box-sizing: border-box; color: rgb(33, 37, 41); font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px; letter-spacing: -0.068px; background-color: rgb(255, 255, 255);"><span style="box-sizing: border-box;">Thank you for your continued Support.</span></div>]]></td>
+</tr>
+</table>
